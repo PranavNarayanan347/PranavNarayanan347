@@ -6,7 +6,7 @@ Sophomore at **Vanderbilt University** studying Electrical & Computer Engineerin
 
 ---
 
-## // skills
+## Skills
 
 **languages**
 
@@ -33,7 +33,7 @@ Sophomore at **Vanderbilt University** studying Electrical & Computer Engineerin
 
 ---
 
-## // projects
+## Projects
 
 ### 🟡 QB Mechanics Analyzer *(in progress)*
 Computer vision pipeline for evaluating NFL quarterback throwing mechanics. Uses MediaPipe pose estimation to extract joint angles, a Composite Developmental Index scoring system, and an SVM classifier to assess performance. Case study: JJ McCarthy and the Minnesota Vikings.
@@ -49,7 +49,7 @@ AI-powered networking platform designed to streamline and scale professional cof
 
 ---
 
-## // right now
+## Right now
 
 - `>_` Finishing the QB mechanics ML pipeline — sourcing sideline footage
 - `>_` Exploring AI applications in healthcare strategy
@@ -58,10 +58,10 @@ AI-powered networking platform designed to streamline and scale professional cof
 
 ---
 
-## // connect
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d2137?style=flat&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-0d2137?style=flat&logo=gmail&logoColor=58a6ff)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d2137?style=flat&logo=linkedin&logoColor=58a6ff)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/pranav-narayanan12345/))
+[![Email](https://img.shields.io/badge/Email-0d2137?style=flat&logo=gmail&logoColor=58a6ff)](pranavnarayanan913@gmail.com)
 
 ---
 
