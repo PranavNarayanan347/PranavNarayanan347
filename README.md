@@ -61,7 +61,7 @@ AI-powered networking platform designed to streamline and scale professional cof
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d2137?style=flat&logo=linkedin&logoColor=58a6ff)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/pranav-narayanan12345/))
-[![Email](https://img.shields.io/badge/Email-0d2137?style=flat&logo=gmail&logoColor=58a6ff)](pranavnarayanan913@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d2137?style=flat&logo=gmail&logoColor=58a6ff)](mailto:pranavnarayanan913@gmail.com)
 
 ---
 
